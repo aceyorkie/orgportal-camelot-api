@@ -1,6 +1,7 @@
 fastapi
 uvicorn
-camelot-py[cv]
+camelot-py
 pandas
 ghostscript
 opencv-python-headless
+python-multipart
