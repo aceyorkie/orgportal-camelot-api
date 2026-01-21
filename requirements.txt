@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+camelot-py[cv]
+pandas
+ghostscript
+opencv-python-headless
