@@ -2,7 +2,7 @@ from fastapi import FastAPI, UploadFile, File, Header, HTTPException
 import camelot
 import tempfile
 import os
-from PyPDF2 import PdfReader
+from pypdf import PdfReader
 
 app = FastAPI()
 
